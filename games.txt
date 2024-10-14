@@ -8,7 +8,7 @@ https://www.youtube.com/playlist?list=PLFR0ZIZJqjnu9Iy_tZ8UpqbG-IXerlQAW
 http://rutor.is/torrent/117524/need-for-speed-hot-pursuit-2010-pc-repack-ot-r.g-catalyst
 http://rutor.info/torrent/377134/driver-san-francisco-v-1.04-2011-pc-repack-ot-r.g-mehaniki
 
-Коды для Re-Volt(3 штуки):
+Коды для Re-Volt (3 штуки):
 Carnival - доступны все машины
 Sadist - выбор любого оружия (в игре нажми правый Shift)
 Tracker - доступны все треки
@@ -16,7 +16,7 @@ Tracker - доступны все треки
 С тем чтобы игра Civilization 3 не меняла разрешение экрана во время игры,
 нужно добавить строку KeepRes=1 в файл 
 C:\Program Files\Civilization III Complete\Conquests\conquests.ini,
-но после запуска игры(после запуска файл conquests.ini появится).
+но после запуска игры (после запуска файл conquests.ini появится).
 
 
 https://www.youtube.com/watch?v=iuHIqrOyTOE
